@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "cstdio": "cpp",
+        "iostream": "cpp"
+    },
+    "editor.formatOnSave": true,
+    "git.ignoreLimitWarning": true
+}
