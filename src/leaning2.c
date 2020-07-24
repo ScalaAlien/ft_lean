@@ -21,11 +21,12 @@ int main(void)
 {
     int n[2] = {};
     printf("1～10までの整数を2つ入力してください。");
+    printf("\n");
     printf("1つ目の整数を入力してください＞");
     scanf("%d", &n[0]);
     printf("2つ目の整数を入力してください＞");
     scanf("%d", &n[1]);
-    printf("%d\n", n[0] + n[1]);
-    printf("%d\n", n[0] * n[1]);
+    printf("和は「%d」です。\n", n[0] + n[1]);
+    printf("積は「%d」です。\n", n[0] * n[1]);
     return 0;
 }
