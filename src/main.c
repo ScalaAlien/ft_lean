@@ -25,5 +25,7 @@ void ft_is_negative(int n)
 int main(void)
 {
     ft_print_reverse_alphabet();
+    printf("a");
+    printf("b");
     return 0;
 }
