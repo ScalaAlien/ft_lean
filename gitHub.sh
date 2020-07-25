@@ -1,7 +1,7 @@
 git clone [origin.git] //url
 cd [origin.git folder path]
 git checkout -b [develop branch name]
-git add . 
+git add .
 git commit -m [message]
 git push origin [develop branch name]
 git remote add upstream [upstream.git] //url
