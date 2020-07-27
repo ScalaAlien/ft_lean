@@ -9,7 +9,8 @@
         "initializer_list": "c",
         "utility": "c",
         "cstdio": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cstdlib": "c"
     },
     "editor.formatOnSave": true,
     "git.ignoreLimitWarning": true
