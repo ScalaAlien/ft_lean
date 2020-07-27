@@ -4,7 +4,7 @@
         {
             "label": "Build Main",
             "type": "shell",
-            "command": "gcc -W -Wall -g -O0 -o /workspaces/c/out/a.out /workspaces/c/src/my_study/fscanf.c",
+            "command": "gcc -W -Wall -g -O0 -o /workspaces/c/out/a.out /workspaces/c/src/my_study/fwrite_hex.c",
             "group": {
                 "kind": "build",
                 "isDefault": true
