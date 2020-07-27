@@ -4,7 +4,7 @@ int main(void)
 {
     int i;
     FILE *file;
-    file = fopen("text.txt", "r");
+    file = fopen("test.txt", "r");
     fscanf(file, "%d", &i);
     fclose(file);
     printf("%d\n", i);
