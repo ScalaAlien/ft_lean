@@ -22,3 +22,5 @@ int main()
     printf("\n");
     return 0;
 }
+
+0, 1, 1, 2, 3,

@@ -4,7 +4,7 @@
         {
             "label": "Build Main",
             "type": "shell",
-            "command": "gcc -W -Wall -Wextra -Werror -g -O0 -o /workspaces/c/out/a.out /workspaces/c/src/hanoi.c",
+            "command": "gcc -W -Wall -Wextra -Werror -g -O0 -o /workspaces/c/out/a.out /workspaces/c/src/my_study/sample.c",
             "group": {
                 "kind": "build",
                 "isDefault": true

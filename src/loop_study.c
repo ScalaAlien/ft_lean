@@ -27,7 +27,7 @@ int h(int n)
     return g(n, 0);
 }
 
-int main(void)
+int main(int argc, int *argv)
 {
     printf("%d", f());
     printf("%d", h(10));

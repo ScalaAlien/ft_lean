@@ -7,7 +7,7 @@ check:
 	cppcheck --enable=all --quiet --suppress=missingIncludeSystem ${SRC}
 compile:
 	@ \
-	gcc -W -Wall -o ${DEST} ${SRC}
+	gcc -W -Wall -Wextra -Werror -o ${DEST} ${SRC}
 run:
 	@ \
 	${DEST}
